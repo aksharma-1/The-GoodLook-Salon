@@ -1,0 +1,43 @@
+.carousel-item img{
+    height: 90vh;
+}
+.navbar-nav a{
+    font-size: 22px;
+}
+.navbar{
+    background-color:rgb(255, 172, 172);
+}
+.modal-header{
+    background-color: rgb(255, 172, 172);
+}
+.modal-footer{
+    background-color: rgb(255, 172, 172);
+}
+.row{
+    width: 100%;
+}
+#carouselExampleCaptions{
+    margin: 80px 10px;
+}
+#about{
+    margin: 50px 110px;
+}
+#map{
+    margin: 50px 110px;
+}
+.about-img img{
+    width: 30vw;
+    height: 50vh;
+}
+.card img{
+    height: 32vh;
+    width: 26vw;
+}
+footer{
+    padding: 30px;
+    margin-top: 50px;
+    background-color: rgb(255, 172, 172);
+}
+#booking li{
+    padding: 5px;
+}
