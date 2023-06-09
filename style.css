@@ -19,19 +19,22 @@
 #carouselExampleCaptions{
     margin: 80px 10px;
 }
-#about{
+/* #about{
     margin: 50px 110px;
-}
+} */
 #map{
-    margin: 50px 110px;
+    margin: 50px 6px;
+}
+#map .about-img{
+    margin: 0px 0px 0px 0px;
 }
 .about-img img{
-    width: 30vw;
+    width: 100%;
     height: 50vh;
 }
 .card img{
     height: 32vh;
-    width: 26vw;
+    width: 100%;
 }
 footer{
     padding: 30px;
